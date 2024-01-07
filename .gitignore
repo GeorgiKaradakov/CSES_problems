@@ -1,0 +1,6 @@
+# Ignore directory named output_files
+output_files/
+
+# Ignore specific files
+run.sh
+git_add.sh
