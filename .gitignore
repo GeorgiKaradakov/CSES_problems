@@ -1,4 +1,5 @@
 output_files
 
 run.sh
-git_add.sh
+create_file.sh
+template.cpp
